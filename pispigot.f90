@@ -1,4 +1,4 @@
- Program to compute pi to 'digitsrequired' digits using a spigot algorithm
+! Program to compute pi to 'digitsrequired' digits using a spigot algorithm
 ! Based on an original Pascal program retrieved from
 ! https://www.cs.williams.edu/~heeringa/classes/cs135/s15/readings/spigot.pdf
 !
